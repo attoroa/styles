@@ -1,12 +1,18 @@
-.name {
+p {
   font-family: 'Caesar Dressing', cursive;
-  font-size: 5em;
+  font-size: 16px;
   text-transform: lowercase;
   vertical-align: middle;
   letter-spacing: .2em;
 }
 
 .fire {
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 5em;
+  text-transform: lowercase;
+  vertical-align: middle;
+  letter-spacing: .2em;
+
   animation: animation 1s ease-in-out infinite alternate;
   -moz-animation: animation 1s ease-in-out infinite alternate;
   -webkit-animation: animation 1s ease-in-out infinite alternate;
@@ -14,6 +20,12 @@
 }
 
 .burn {
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 5em;
+  text-transform: lowercase;
+  vertical-align: middle;
+  letter-spacing: .2em;
+
   animation: animation .65s ease-in-out infinite alternate;
   -moz-animation: animation .65s ease-in-out infinite alternate;
   -webkit-animation: animation .65s ease-in-out infinite alternate;
